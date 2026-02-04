@@ -11,7 +11,7 @@ Each class includes validation logic, formatted output, and clear separation of 
 
 ---
 
-## 🕒 Class: Time
+##  Class: Time
 
 **Members:**
 - `int hours`
@@ -25,7 +25,7 @@ Each class includes validation logic, formatted output, and clear separation of 
 
 ---
 
-## 📅 Class: Date
+##  Class: Date
 
 **Members:**
 - `int year`
@@ -43,7 +43,7 @@ Each class includes validation logic, formatted output, and clear separation of 
 
 ---
 
-## 🎉 Class: Event
+##  Class: Event
 
 **Members:**
 - `string title`
