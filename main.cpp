@@ -112,9 +112,9 @@ public:
     }
 };
 
-// =======================
+
 //          MAIN
-// =======================
+
 int main() {
     // Demonstrate Time
     Time t;
@@ -124,14 +124,14 @@ int main() {
 
     // Demonstrate Date
     Date d;
-    d.set(2025, 13, 40);
+    d.set(2026, 13, 40);
     d.print();
     cout << endl;
 
     // Demonstrate Event
     Event e;
     e.setTitle("Team Meeting");
-    e.setDate(2025, 1, 2);
+    e.setDate(2026, 1, 2);
     e.setStart(9, 5);
     e.setEnd(10, 45);
     e.print();
