@@ -61,5 +61,15 @@ Each class includes validation logic, formatted output, and clear separation of 
 
 ---
 
-## ▶️ Example Output
+##  Example Output
+
+Time example: 02:15
+
+Date example: 2025-12-31
+
+Event example:
+Event: Team Meeting
+Date: 2025-01-02
+Start: 09:05
+End:   10:45
 
